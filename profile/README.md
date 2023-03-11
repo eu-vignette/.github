@@ -12,7 +12,7 @@ Vignette ID is a revolutionary application that simplifies the process of paying
 
 <a href="https://apps.apple.com/gb/app/vignette-id/id1636526833"><img src="https://github.com/eu-vignette/.github/blob/main/profile/app-store.png" width="150" /></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=id.vignette.app"><img src="https://github.com/eu-vignette/.github/blob/main/profile/google-play.png" width="150" /></a>
 
-**https://vignette.id**
+**🔗 https://vignette.id** · **🔗 https://lite.vignette.id**
 
 ## 🛠&nbsp; Convenience and Flexibility
 
@@ -50,4 +50,4 @@ Vignette ID is a game-changer in the road payment industry. Its ability to provi
 
 ### ⭐️&nbsp; Try Vignette ID today and experience the convenience and simplicity of paying for road usage in Europe.
 
-**https://vignette.id**
+**🔗 https://vignette.id** · **🔗 https://lite.vignette.id**
