@@ -54,8 +54,27 @@ Our company is open to potential collaborations! We value the contribution of ea
 
 We are flexible and open to new ideas, ready to explore partnership opportunities in product development, service provision, joint marketing, and many other areas. We have experience in successful collaborations with different companies and are prepared to provide our resources, knowledge, and expertise to support you in reaching your goals.
 
-Our target audience includes customers who live or travel in **Austria 🇦🇹, Slovenia 🇸🇮, Czech 🇨🇿, Slovakia 🇸🇰, Hungary 🇭🇺, Romania 🇷🇴, Bulgaria 🇧🇬, Germany 🇩🇪, Italy 🇮🇹, Switzerland 🇨🇭, Poland 🇵🇱, Ukraine 🇺🇦, Croatia 🇭🇷, Serbia 🇷🇸, and Moldova 🇲🇩**. If you are interested in collaborating with us and targeting this audience, please reach out to our team. Let's discuss your needs and explore possibilities for a mutually beneficial partnership. Together, we can achieve more and create impressive results.
+Our target audience includes customers who live or travel in
+
+ **Austria 🇦🇹, 
+Slovenia 🇸🇮, 
+Czech 🇨🇿, 
+Slovakia 🇸🇰, 
+Hungary 🇭🇺, 
+Romania 🇷🇴, 
+Bulgaria 🇧🇬, 
+Germany 🇩🇪, 
+Italy 🇮🇹, 
+Switzerland 🇨🇭, 
+Poland 🇵🇱, 
+Ukraine 🇺🇦, 
+Croatia 🇭🇷, 
+Serbia 🇷🇸,
+Moldova 🇲🇩**. 
+
+If you are interested in collaborating with us and targeting this audience, please reach out to our team at **work@vignette.id**. Let's discuss your needs and explore possibilities for a mutually beneficial partnership. Together, we can achieve more and create impressive results.
+
 
 ### ⭐️&nbsp; Try Vignette ID today and experience the convenience and simplicity of paying for road usage in Europe.
 
-**🔗 https://vignette.id** · **🔗 https://lite.vignette.id**
+**🔗 https://vignette.id** · **🔗 https://lite.vignette.id** **📩 work@vignette.id**
