@@ -8,7 +8,7 @@
 
 # 💎&nbsp; The Ultimate Solution for Road Payment in Europe
 
-Vignette ID is a revolutionary application that simplifies the process of paying for road usage in Europe. The first multi-state road payment app in seven European countries, it allows you to buy a vignette for multiple cars and countries at once. The application is easy to use and helps you pay for roads in Slovenia, Austria, Slovakia, Czech Republic, Hungary, Bulgaria, Romania and tunnels in Austria in just a few minutes.
+Vignette ID is a revolutionary application that simplifies the process of paying for road usage in Europe. The first multi-state road payment app in seven European countries, it allows you to buy a vignette for multiple cars and countries at once. The application is easy to use and helps you pay for roads in **Slovenia, Austria, Slovakia, Czech Republic, Hungary, Bulgaria, Romania and tunnels in Austria** in just a few minutes.
 
 <a href="https://apps.apple.com/app/vignette-id/id1636526833"><img src="https://github.com/eu-vignette/.github/blob/main/profile/app-store.png" width="150" /></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=id.vignette.app"><img src="https://github.com/eu-vignette/.github/blob/main/profile/google-play.png" width="150" /></a>
 
@@ -47,6 +47,14 @@ The application's UI/UX design is based on many years of experience in the road 
 ## ℹ️&nbsp; Conclusion
 
 Vignette ID is a game-changer in the road payment industry. Its ability to provide a one-stop-shop for all your road payment needs makes it the ultimate solution for anyone traveling across Europe. The convenience and flexibility it offers ensure that you only pay for the period that you need, while its secure payment process and 24/7 support team give you peace of mind. The push notification feature ensures that you never miss a deadline, while the application's UI/UX design makes the payment process easy and efficient. 
+
+## 💼&nbsp; Potencial Partnerships
+
+Our company is open to potential collaborations! We value the contribution of each partner and strive to establish long-term, mutually beneficial relationships based on trust and respect. We are interested in collaborating with companies and professionals who share our values and aim for high achievements.
+
+We are flexible and open to new ideas, ready to explore partnership opportunities in product development, service provision, joint marketing, and many other areas. We have experience in successful collaborations with different companies and are prepared to provide our resources, knowledge, and expertise to support you in reaching your goals.
+
+Our target audience includes customers who live or travel in **Austria, Slovenia, Czech, Slovakia, Hungary, Romania, Bulgaria, Germany, Italy, Switzerland, Poland, Ukraine, Croatia, Serbia, and Moldova**. If you are interested in collaborating with us and targeting this audience, please reach out to our team. Let's discuss your needs and explore possibilities for a mutually beneficial partnership. Together, we can achieve more and create impressive results.
 
 ### ⭐️&nbsp; Try Vignette ID today and experience the convenience and simplicity of paying for road usage in Europe.
 
