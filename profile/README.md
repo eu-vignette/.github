@@ -79,4 +79,4 @@ If you are interested in collaborating with us and targeting this audience, plea
 
 ### ⭐️&nbsp; Try Vignette ID today and experience the convenience and simplicity of paying for road usage in Europe.
 
-**🔗 https://vignette.id** · **🔗 https://lite.vignette.id** **📩 work@vignette.id**
+**🔗 https://vignette.id** · **🔗 https://lite.vignette.id** · **📩 work@vignette.id**
