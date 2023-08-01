@@ -5,6 +5,7 @@
 <h1 align="center">Vignette ID</h1>
 
 <img src="https://github.com/eu-vignette/.github/blob/main/profile/screenshots.jpg" width="100%" />
+<img src="https://github.com/eu-vignette/.github/blob/main/profile/screenshotss.png" width="100%" />
 <img src="https://github.com/eu-vignette/.github/blob/main/profile/sscreenshots.png" width="100%" />
 
 # 💎&nbsp; The Ultimate Solution for Road Payment in Europe
@@ -49,7 +50,7 @@ The application's UI/UX design is based on many years of experience in the road 
 
 ## ℹ️&nbsp; Conclusion
 
-Vignette ID is a game-changer in the road payment industry. Its ability to provide a one-stop-shop for all your road payment needs makes it the ultimate solution for anyone traveling across Europe. The convenience and flexibility it offers ensure that you only pay for the period that you need, while its secure payment process and 24/7 support team give you peace of mind. The push notification feature ensures that you never miss a deadline, while the application's UI/UX design makes the payment process easy and efficient. 
+Vignette ID is a game-changer in the road payment industry. Its ability to provide a one-stop-shop for all your road payment needs makes it the ultimate solution for anyone traveling across Europe. The convenience and flexibility it offers ensure that you only pay for the period that you need, while its secure payment process and 24/7 support team give you peace of mind. The push notification feature ensures that you never miss a deadline, while the application's UI/UX design makes the payment process easy and efficient.
 
 ## 💼&nbsp; Potencial Partnerships
 
@@ -61,24 +62,23 @@ Also, we prepare **API** for our partners. The documentation you can find on [de
 
 Our target audience includes customers who live or travel in
 
- **Austria 🇦🇹, 
-Slovenia 🇸🇮, 
-Czech 🇨🇿, 
-Slovakia 🇸🇰, 
-Hungary 🇭🇺, 
-Romania 🇷🇴, 
-Bulgaria 🇧🇬, 
-Germany 🇩🇪, 
-Italy 🇮🇹, 
-Switzerland 🇨🇭, 
-Poland 🇵🇱, 
-Ukraine 🇺🇦, 
-Croatia 🇭🇷, 
+**Austria 🇦🇹,
+Slovenia 🇸🇮,
+Czech 🇨🇿,
+Slovakia 🇸🇰,
+Hungary 🇭🇺,
+Romania 🇷🇴,
+Bulgaria 🇧🇬,
+Germany 🇩🇪,
+Italy 🇮🇹,
+Switzerland 🇨🇭,
+Poland 🇵🇱,
+Ukraine 🇺🇦,
+Croatia 🇭🇷,
 Serbia 🇷🇸,
-Moldova 🇲🇩**. 
+Moldova 🇲🇩**.
 
 If you are interested in collaborating with us and targeting this audience, please reach out to our team at **work@vignette.id**. Let's discuss your needs and explore possibilities for a mutually beneficial partnership. Together, we can achieve more and create impressive results.
-
 
 ### ⭐️&nbsp; Try Vignette ID today and experience the convenience and simplicity of paying for road usage in Europe.
 
