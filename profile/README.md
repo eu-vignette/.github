@@ -5,7 +5,6 @@
 <h1 align="center">Vignette ID</h1>
 
 <img src="https://github.com/eu-vignette/.github/blob/main/profile/screenshotss.png" width="100%" />
-<img src="https://github.com/eu-vignette/.github/blob/main/profile/3dscreenshot.png" width="100%" />
 
 # 💎&nbsp; The Ultimate Solution for Road Payment in Europe
 
