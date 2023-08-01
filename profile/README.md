@@ -8,7 +8,7 @@
 
 # 💎&nbsp; The Ultimate Solution for Road Payment in Europe
 
-Vignette ID is a revolutionary application that simplifies the process of paying for road usage in Europe. The first multi-state road payment app in seven European countries, it allows you to buy a vignette for multiple cars and countries at once. The application is easy to use and helps you pay for roads in **Slovenia, Austria, Slovakia, Czech Republic, Hungary, Bulgaria, Romania and tunnels in Austria** in just a few minutes.
+Vignette ID is a revolutionary application that simplifies the process of paying for road usage in Europe. The first multi-state road payment app in **eight European countries**, it allows you to buy a vignette for multiple cars and countries at once. The application is easy to use and helps you pay for roads in **Slovenia, Austria, Switzerland, Slovakia, Czech Republic, Hungary, Bulgaria, Romania and tunnels in Austria** in just a few minutes.
 
 <img src="https://github.com/eu-vignette/.github/blob/main/profile/map.png" width="100%" />
 
@@ -56,7 +56,7 @@ Our company is open to potential collaborations! We value the contribution of ea
 
 We are flexible and open to new ideas, ready to explore partnership opportunities in product development, service provision, joint marketing, and many other areas. We have experience in successful collaborations with different companies and are prepared to provide our resources, knowledge, and expertise to support you in reaching your goals.
 
-Also, we prepare API for our partners. The documentation you can find on [developer portal](https://vignette-api-main-e74ac77.zuplo.app/docs/routes#a5e610d2-d515-4f71-b8f3-e2a539405bd9)
+Also, we prepare **API** for our partners. The documentation you can find on [developer portal](https://vignette-api-main-e74ac77.zuplo.app/docs/routes#a5e610d2-d515-4f71-b8f3-e2a539405bd9)
 
 Our target audience includes customers who live or travel in
 
