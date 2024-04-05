@@ -16,7 +16,7 @@ Vignette ID is a revolutionary application that simplifies the process of paying
 
 <a href="https://apps.apple.com/app/vignette-id/id1636526833"><img src="https://github.com/eu-vignette/.github/blob/main/profile/app-store.png" width="150" /></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=id.vignette.app"><img src="https://github.com/eu-vignette/.github/blob/main/profile/google-play.png" width="150" /></a>
 
-**🌐 [Visit Platform](https://vignette.id)** • **🌐 https://lite.vignette.id** • **🌐 [Promo Page](htpss://e-vignettes.eu)** • **🛠 [API](https://vignette-api-main-e74ac77.zuplo.app/docs/routes#a5e610d2-d515-4f71-b8f3-e2a539405bd9)** • **📱[eSIM by Vignette ID](/profile/esim.md)**
+**🌐 [Visit Platform](https://vignette.id)** • **🌐 [Visit Lite Platform](https://lite.vignette.id)** • **🌐 [Promo Page](https://e-vignettes.eu)** • **🛠 [API](https://vignette-api-main-e74ac77.zuplo.app/docs/routes#a5e610d2-d515-4f71-b8f3-e2a539405bd9)** • **📱[eSIM by Vignette ID](/profile/esim.md)**
 
 ## 🛠&nbsp; Convenience and Flexibility
 
