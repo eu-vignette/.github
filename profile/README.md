@@ -48,6 +48,11 @@ Vignette ID is a one-stop-shop for all your road payment needs. The application 
 
 The application's UI/UX design is based on many years of experience in the road payment industry. It is designed to make the payment process easy and efficient, ensuring that you can complete your payment within minutes. The design is user-friendly and intuitive, ensuring that you can navigate through the application with ease.
 
+## 🌐&nbsp; Localization
+
+Our **Vignette ID** application and [vignette.id](https://vignette.id) website are translated into **20 languages**, and we are constantly increasing this number. Our goal is to simplify the payment for roads in Europe for all our users, regardless of which country they are from and what language they speak.
+
+
 ## ℹ️&nbsp; Conclusion
 
 Vignette ID is a game-changer in the road payment industry. Its ability to provide a one-stop-shop for all your road payment needs makes it the ultimate solution for anyone traveling across Europe. The convenience and flexibility it offers ensure that you only pay for the period that you need, while its secure payment process and 24/7 support team give you peace of mind. The push notification feature ensures that you never miss a deadline, while the application's UI/UX design makes the payment process easy and efficient.
