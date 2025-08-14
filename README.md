@@ -2,7 +2,7 @@
   <img src="https://github.com/eu-vignette/.github/blob/main/profile/icon-rounded.png" width="128" />
 </div>
 
-<h1 align="center">Vignette ID</h1>
+<h1 align="center">Vignette ID | </h1>
 
 <img src="https://github.com/eu-vignette/.github/blob/main/profile/screenshotss.png" width="100%" />
 
