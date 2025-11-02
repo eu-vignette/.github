@@ -92,3 +92,5 @@ If you are interested in collaborating with us and targeting this audience, plea
 ### ⭐️&nbsp; Try Vignette ID today and experience the convenience and simplicity of paying for road usage in Europe.
 
 **🔗 https://vignette.id** • **🔗 https://lite.vignette.id** • **📩 work+api+support@vignette.id**
+
+<iframe src="https://trustmrr.com/api/badge/vignette-id" width="260" height="90" frameborder="0" scrolling="no" style="border: none; overflow: hidden;"></iframe>
