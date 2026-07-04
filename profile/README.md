@@ -24,7 +24,7 @@ Vignette ID is a system and revolutionary application that simplifies the proces
 
 <img src="https://github.com/eu-vignette/.github/blob/main/profile/tollbox.png" width="100%" />
 
-Not every country uses vignettes — in much of the Balkans you pay per distance at toll plazas. **TollBox** is our physical toll transponder (OBU/TAG) that lets you drive straight through the electronic lanes: no stopping, no cash, no queues. One device, paired with the app, covers **Croatia 🇭🇷, Serbia 🇷🇸, Montenegro 🇲🇪, North Macedonia 🇲🇰, Bosnia and Herzegovina 🇧🇦 and Greece 🇬🇷** — with more countries on the way.
+Not every country uses vignettes — in much of the Balkans you pay per distance at toll plazas. **TollBox** is our physical toll transponder (OBU/TAG) that lets you drive straight through the electronic lanes: no stopping, no cash, no queues. One device, paired with the app, covers **Croatia 🇭🇷, Serbia 🇷🇸, Montenegro 🇲🇪, North Macedonia 🇲🇰 and Bosnia and Herzegovina 🇧🇦**, with **Greece 🇬🇷 coming soon**.
 
 - ⚡ **Non-stop passage** through dedicated electronic toll lanes
 - 💸 **Automatic discounts** on tolls, where operators offer them
