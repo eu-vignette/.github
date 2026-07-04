@@ -18,7 +18,7 @@ Vignette ID is a system and revolutionary application that simplifies the proces
 
 <a href="https://apps.apple.com/app/vignette-id/id1636526833"><img src="https://github.com/eu-vignette/.github/blob/main/profile/app-store.png" width="150" /></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=id.vignette.app"><img src="https://github.com/eu-vignette/.github/blob/main/profile/google-play.png" width="150" /></a>
 
-**🌐 [Visit Platform](https://vignette.id)** • **🌐 [Visit Lite Platform](https://lite.vignette.id)** • **🌐 [Promo Page](https://e-vignettes.eu)** • **🛠 [API](https://api.vignette.id/docs/routes/index)** • **📱[eSIM by Vignette ID](/profile/esim.md)**
+**🌐 [Visit Platform](https://vignette.id)** • **🌐 [Visit Lite Platform](https://lite.vignette.id)** • **🌐 [Promo Page](https://e-vignettes.eu)** • **🛠 [API](https://docs.vgnt.app)** • **📱[eSIM by Vignette ID](/profile/esim.md)**
 
 ## 🛠&nbsp; Convenience and Flexibility
 
@@ -52,7 +52,7 @@ The application's UI/UX design is based on many years of experience in the road 
 
 ## 🌐&nbsp; Localization
 
-Our **Vignette ID** application and [vignette.id](https://vignette.id) website are translated into **20 languages**, and we are constantly increasing this number. Our goal is to simplify the payment for roads in Europe for all our users, regardless of which country they are from and what language they speak.
+Our **Vignette ID** application and [vignette.id](https://vignette.id) website are translated into **24 languages**, and we are constantly increasing this number. Our goal is to simplify the payment for roads in Europe for all our users, regardless of which country they are from and what language they speak.
 
 
 ## ℹ️&nbsp; Conclusion
@@ -65,7 +65,7 @@ Our company is open to potential collaborations! We value the contribution of ea
 
 We are flexible and open to new ideas, ready to explore partnership opportunities in product development, service provision, joint marketing, and many other areas. We have experience in successful collaborations with different companies and are prepared to provide our resources, knowledge, and expertise to support you in reaching your goals.
 
-Also, we prepare **API** for our partners. The documentation you can find on [developer portal](https://vignette-api-main-e74ac77.zuplo.app/docs/routes#a5e610d2-d515-4f71-b8f3-e2a539405bd9)
+Also, we prepare **API** for our partners. The documentation you can find on [developer portal](https://docs.vgnt.app)
 
 You can [fill form](https://e-vignettes.eu/en/partner) and get access to our sandbox. In the sandbox you can start testing our solution and integrate it into your system. This can speed up the launch process if you are interested in cooperation.
 
