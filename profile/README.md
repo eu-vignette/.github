@@ -4,7 +4,7 @@
 
 <h1 align="center">Vignette ID</h1>
 
-**🌐 [Visit Platform](https://vignette.id)** • **🌐 [Visit Lite Platform](https://lite.vignette.id)** • **🌐 [Promo Page](https://e-vignettes.eu)** • **🛠 [API](https://docs.vgnt.app)** • **📱[eSIM by Vignette ID](/profile/esim.md)**
+**🌐 [Visit Platform](https://vignette.id)** • **🌐 [Promo Page](https://e-vignettes.eu)** • **🛠 [API](https://docs.vgnt.app)** • **📱[eSIM by Vignette ID](/profile/esim.md)**
 
 <img src="https://github.com/eu-vignette/.github/blob/main/profile/title.png" width="100%" />
 
@@ -20,7 +20,7 @@ Vignette ID is a system and revolutionary application that simplifies the proces
 
 <a href="https://apps.apple.com/app/vignette-id/id1636526833"><img src="https://github.com/eu-vignette/.github/blob/main/profile/app-store.png" width="150" /></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=id.vignette.app"><img src="https://github.com/eu-vignette/.github/blob/main/profile/google-play.png" width="150" /></a>
 
-**🌐 [Visit Platform](https://vignette.id)** • **🌐 [Visit Lite Platform](https://lite.vignette.id)** • **🌐 [Promo Page](https://e-vignettes.eu)** • **🛠 [API](https://docs.vgnt.app)** • **📱[eSIM by Vignette ID](/profile/esim.md)**
+**🌐 [Visit Platform](https://vignette.id)** • **🌐 [Promo Page](https://e-vignettes.eu)** • **🛠 [API](https://docs.vgnt.app)** • **📱[eSIM by Vignette ID](/profile/esim.md)**
 
 ## 🚗&nbsp; NEW 🔥 TollBox — one transponder for toll-road countries
 
@@ -80,7 +80,7 @@ Our company is open to potential collaborations! We value the contribution of ea
 
 We are flexible and open to new ideas, ready to explore partnership opportunities in product development, service provision, joint marketing, and many other areas. We have experience in successful collaborations with different companies and are prepared to provide our resources, knowledge, and expertise to support you in reaching your goals.
 
-Also, we prepare **API** for our partners. The documentation you can find on [developer portal](https://docs.vgnt.app)
+Also, we provide a **REST API** for our partners. The documentation you can find on [developer portal](https://docs.vgnt.app)
 
 <a href="https://docs.vgnt.app"><img src="https://github.com/eu-vignette/.github/blob/main/profile/api.png" width="100%" /></a>
 
@@ -108,4 +108,4 @@ If you are interested in collaborating with us and targeting this audience, plea
 
 ### ⭐️&nbsp; Try Vignette ID today and experience the convenience and simplicity of paying for road usage in Europe.
 
-**🔗 https://vignette.id** • **🔗 https://lite.vignette.id** • **📩 work+api+support@vignette.id**
+**🔗 https://vignette.id** • **📩 work+api+support@vignette.id**
