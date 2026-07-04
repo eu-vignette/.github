@@ -80,7 +80,7 @@ Our company is open to potential collaborations! We value the contribution of ea
 
 We are flexible and open to new ideas, ready to explore partnership opportunities in product development, service provision, joint marketing, and many other areas. We have experience in successful collaborations with different companies and are prepared to provide our resources, knowledge, and expertise to support you in reaching your goals.
 
-Also, we provide a **REST API** for our partners. The documentation you can find on [developer portal](https://docs.vgnt.app)
+Also, we offer our partners three ways to integrate — a flexible **REST API**, an embeddable **Widget**, and a plug-and-play **iFrame** — covering everything from fully custom builds to a quick, no-code setup. The documentation you can find on [developer portal](https://docs.vgnt.app)
 
 <a href="https://docs.vgnt.app"><img src="https://github.com/eu-vignette/.github/blob/main/profile/api.png" width="100%" /></a>
 
